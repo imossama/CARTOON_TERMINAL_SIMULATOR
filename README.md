@@ -1,4 +1,6 @@
-### Cartoon Terminal Simulator 🤖
+### Cartoon Terminal Simulator
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=flat&logo=python)](https://www.python.org/)
+[![Collaboration Progress](https://img.shields.io/badge/Collaboration-40%25-brightgreen.svg?style=flat&logo=github)](https://your-project-url)<br>
 This application will be a valuable learning experience, allowing me to explore creative applications of AI and build something innovative that stands out from the typical, professional applications.
 
 <img src="https://github.com/imossama/CARTOON_TERMINAL_SIMULATOR/assets/119759894/ebd7a0c9-d1a7-4704-b62b-00973c77ea56" alt="eat my shit, society!" height="200">
