@@ -1,5 +1,8 @@
 ### Cartoon Terminal Simulator 🤖
-This application will be a valuable learning experience, allowing me to explore AI use cases and build something innovative.
+This application will be a valuable learning experience, allowing me to explore creative applications of AI and build something innovative that stands out from the typical, professional applications.
+
+<img src="https://github.com/imossama/CARTOON_TERMINAL_SIMULATOR/assets/119759894/ebd7a0c9-d1a7-4704-b62b-00973c77ea56" alt="eat my shit, society!" height="200">
+
 
 #### Overview 🌟
 The Cartoon Terminal Simulator is a fun Python project that simulates the intelligent terminals often seen in cartoons featuring clever characters like scientists, inventors, or mad geniuses. This project uses Python and AI to create a playful environment where users can interact with a virtual terminal reminiscent of those seen in cartoons.
