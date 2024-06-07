@@ -76,5 +76,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 #### Acknowledgements 🙏
 - This project was inspired by the classic cartoons featuring intelligent characters and their quirky inventions.
 - Special thanks to the Python community for creating and maintaining the libraries used in this project.
+- The detailed specification book is still under development.
 - If you like the project, I'm open for collaborations. Let's me know on my <a href="https://www.linkedin.com/in/imossama/">LinkedIn</a>.
 
