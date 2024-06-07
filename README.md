@@ -36,7 +36,7 @@ The Cartoon Terminal Simulator is a fun Python project that simulates the intell
     </tr>
     <tr>
       <td>Speech Recognition</td>
-      <td><img src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud Icon" width="20"></td>
+      <td><img src="https://simpleicons.org/icons/google.svg" alt="Google Cloud Icon" width="20"></td>
       <td>(e.g.) Google Speech Recognition</td>
     </tr>
     <tr>
