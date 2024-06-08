@@ -53,9 +53,9 @@ The Cartoon Terminal Simulator is a fun Python project that simulates the intell
 </table>
 
 #### Features 🚀
-- **Intelligent Responses**: AI generates witty banter.
-- **Voice Recognition**: Interact with voice commands.
-- **Expandable Commands**: Easily add custom responses.
+- **Intelligent Responses**: Get smart replies in text, voice, or commands that match your input.
+- **Voice Recognition**: Speak your commands and get things done effortlessly.
+- **Expandable Commands**: Add your own responses easily to make the system do more.
 
 #### Installation 💻
 1. Clone the repository.
