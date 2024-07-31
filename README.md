@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/👥 Open to Collaborations-2F2F2F?&style=for-the-badge">
+</p>
+
 ### Cartoon Terminal Simulator
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=flat&logo=python)](https://www.python.org/)
-[![Collaboration Progress](https://img.shields.io/badge/Collaboration-40%25-brightgreen.svg?style=flat&logo=github)](https://your-project-url)<br>
+
 This application will be a valuable learning experience, allowing me to explore creative applications of AI and build something innovative that stands out from the typical, professional applications.
 
 <img src="https://github.com/imossama/CARTOON_TERMINAL_SIMULATOR/assets/119759894/ebd7a0c9-d1a7-4704-b62b-00973c77ea56" alt="eat my shit, society!" height="200">
-
 
 #### Overview 🌟
 The Cartoon Terminal Simulator is a fun Python project that simulates the intelligent terminals often seen in cartoons featuring clever characters like scientists, inventors, or mad geniuses. This project uses Python and AI to create a playful environment where users can interact with a virtual terminal reminiscent of those seen in cartoons.
@@ -77,5 +80,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This project was inspired by the classic cartoons featuring intelligent characters and their quirky inventions.
 - Special thanks to the Python community for creating and maintaining the libraries used in this project.
 - The detailed specification book is still under development.
-- If you like the project, I'm open for collaborations. Let's me know on my <a href="https://www.linkedin.com/in/imossama/">LinkedIn</a>.
+- If you like the project, I'm open for collaborations. Let's me know on <a href="https://discord.com/users/1268311532136169482">Discord</a>.
 
